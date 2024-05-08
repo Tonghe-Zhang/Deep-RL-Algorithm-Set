@@ -42,9 +42,6 @@ the parameters P, nS, nA, gamma are defined as follows:
 
 def policy_evaluation(P, nS, nA, policy, gamma=0.9, eps=1e-3):
     """Evaluate the value function from a given policy.
-
-
-
     Parameters
     ----------
     P, nS, nA, gamma:

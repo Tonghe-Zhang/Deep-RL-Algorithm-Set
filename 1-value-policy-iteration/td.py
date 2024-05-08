@@ -104,7 +104,6 @@ def Q_learning_step(Q_function, state, action, reward, next_state, next_action, 
 
 def Sarsa_step(Q_function, state, action, reward, next_state, next_action, terminal, alpha, gamma):
     """Update the Q function through Sarsa algorithm.
-
     Parameters
     ----------
     state, action, reward, next_state, terminal, alpha: defined at the beginning of the file

@@ -1,0 +1,73 @@
+name: Autograding Tests
+'on':
+- push
+- workflow_dispatch
+- repository_dispatch
+permissions:
+  checks: write
+  actions: read
+  contents: read
+jobs:
+  run-autograding-tests:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-classroom[bot]'
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    - name: test_get_Qs_ddpg
+      id: test_get_qs_ddpg
+      uses: education/autograding-command-grader@v1
+      with:
+        test-name: test_get_Qs_ddpg
+        setup-command: sudo -H pip3 install pytest omegaconf dotmap numpy hydra-core
+          jaxtyping beartype matplotlib gymnasium[box2d] moviepy && sudo -H pip3 install
+          torch --index-url https://download.pytorch.org/whl/cpu
+        command: pytest -k test_get_Qs_ddpg
+        timeout: 10
+        max-score: 10
+    - name: test_get_actor_loss_ddpg
+      id: test_get_actor_loss_ddpg
+      uses: education/autograding-command-grader@v1
+      with:
+        test-name: test_get_actor_loss_ddpg
+        setup-command: ''
+        command: pytest -k test_get_actor_loss_ddpg
+        timeout: 10
+        max-score: 5
+    - name: test_get_Qs_td3
+      id: test_get_qs_td3
+      uses: education/autograding-command-grader@v1
+      with:
+        test-name: test_get_Qs_td3
+        setup-command: ''
+        command: pytest -k test_get_Qs_td3
+        timeout: 10
+        max-score: 5
+    - name: test_get_alpha_loss_sac
+      id: test_get_alpha_loss_sac
+      uses: education/autograding-command-grader@v1
+      with:
+        test-name: test_get_alpha_loss_sac
+        setup-command: ''
+        command: pytest -k test_get_alpha_loss_sac
+        timeout: 10
+        max-score: 5
+    - name: test_forward_sac
+      id: test_forward_sac
+      uses: education/autograding-command-grader@v1
+      with:
+        test-name: test_forward_sac
+        setup-command: ''
+        command: pytest -k test_forward_sac
+        timeout: 10
+        max-score: 5
+    - name: Autograding Reporter
+      uses: education/autograding-grading-reporter@v1
+      env:
+        TEST_GET_QS_DDPG_RESULTS: "${{steps.test_get_qs_ddpg.outputs.result}}"
+        TEST_GET_ACTOR_LOSS_DDPG_RESULTS: "${{steps.test_get_actor_loss_ddpg.outputs.result}}"
+        TEST_GET_QS_TD3_RESULTS: "${{steps.test_get_qs_td3.outputs.result}}"
+        TEST_GET_ALPHA_LOSS_SAC_RESULTS: "${{steps.test_get_alpha_loss_sac.outputs.result}}"
+        TEST_FORWARD_SAC_RESULTS: "${{steps.test_forward_sac.outputs.result}}"
+      with:
+        runners: test_get_qs_ddpg,test_get_actor_loss_ddpg,test_get_qs_td3,test_get_alpha_loss_sac,test_forward_sac

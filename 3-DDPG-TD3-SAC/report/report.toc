@@ -1,0 +1,4 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Deep Deterministic Policy Gradient (DDPG)}{1}{section.1}%
+\contentsline {section}{\numberline {2}Twin-delayed DDPG (TD3)}{2}{section.2}%
+\contentsline {section}{\numberline {3}Soft Actor Critic (SAC)}{2}{section.3}%
