@@ -1,4 +1,4 @@
-# Deep-RL-Algorithm-Set
+# Deep-Reinforcement-Learining(DRL)-Algorithm-Set
 Implementation of foundational and state-of-the-art deep reinforcement learning algorithms. 
 
 Extended from the graduate course "Deep Reinforcement Learning" at Tsignhua University.
