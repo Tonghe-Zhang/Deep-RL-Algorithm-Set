@@ -7,3 +7,5 @@ Algorithms include:
 * Value Iteration, Policy Iteration
 * DQN with N-step replay buffer, Double DQN, Dueling DQN, Prioritized Experience Replay
 * DDPG, TD3, SAC
+* Clipped PPO
+* Offline RL algorithms, in particular EDAC. 
