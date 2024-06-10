@@ -627,13 +627,231 @@ IRL could be used to tag the video.
 
 
 
+## Guest Lecture: Simulator for RL
+
+
+
+
+
 
 
 ## Offline RL
 
+On-policy/Off-policy: data collected not by the policy currently being optimized.
+
+TD3, SAC: off-policy
+
+PPO: on-policy-ish
+
+Online/Offline RL: whether interactions with the environment is allowed during training. 
 
 
-## Guest Lecture: Simulator for RL
+
+### Problems of Offline RL
+
+data coverage
+
+biased
+
+biased model transitions
+
+
+
+### Model-free Offline RL
+
+#### BCQ
+
+1. Use VAE to sample actions from a distribution similar to the data distribution, to enable generalization for a better coverage.
+2. perturb actions a little bit to maximize Q function
+
+​	sample from in-distribution actions and maximize rewards locally. 
+
+   only optimize in the slightly perturbed in-distribution region. 
+
+#### CQL
+
+​	conservative Q-learning.
+
+​	penalize out-of-distribution actions
+
+​	we also optimize in the entire state-action space even out of the offline distribution.
+
+#### IQL
+
+$$
+L_\pi(\phi)=\mathbb{E}_{(s, a) \sim \mathcal{D}}\left[\exp \left(\beta\left(Q_{\hat{\theta}}(s, a)-V_\psi(s)\right)\right) \log \pi_\phi(a \mid s)\right]
+$$
+
+* For smaller $\beta$, the objective behaves similarly to behavioral cloning For larger $\beta$, it attempts to recover the maximum of the $\mathrm{Q}$​-function
+
+* For larger $\beta$, it attempts to recover the maximum of the $\mathrm{Q}$-function
+
+because when $\beta$ is super large, we only see the actions correspond to the maximum advantage, by maximizing $L_{\pi}(\phi)$ we are doing $\arg\max_a$​
+
+
+
+
+
+### Model-based Offline RL
+
+
+
+
+
+#### MOPO
+
+![image-20240522144505036](./deep-rl-advanced.assets/image-20240522144505036.png)
+
+
+
+
+
+### Decision Transformer: DT
+
+When training language models  you set a goal for the transformer. 
+
+
+
+
+
+
+
+
+
+
+
+### Offline RL for Robotics
+
+![image-20240522151933911](./deep-rl-advanced.assets/image-20240522151933911.png)
+
+
+
+
+
+
+
+三个视觉输入
+
+1. 上帝视角看操作界面
+2. 第一视角看眼前
+3. 第三者看我的手
+
+
+
+BC-RNN
+
+视觉记忆
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Foundation Models for RL and robots
+
+Robocasa
+
+large-scarle simulation of everdatasks for generalizst robots
+
+affordance in robotics: whether you can do it. 
+
+#### Say-Can:
+
+Use LLM for high-level planning. 
+
+let LLM to generate action series. not very good for low level tasks. 
+
+
+
+
+
+
+
+#### RT1
+
+although the dataset is large, it cannot generalize well. because the task diversity is low. 
+
+
+
+#### Use diffusion models to do data augmentation
+
+Diffuse the background or the object to help generalization. 
+
+RIE
+
+
+
+#### RT-2:
+
+Generate low-level control policy using ViT(object detections, ….), decoder-only GPT, use huge amount of data. 
+
+There is emergent and generalization ability brought by semantic understanding ability from the LLM. 
+
+However the low-level control should be 10kHZ for control, but 3HZ using LLM inference
+
+Code as Policies
+
+Let LLM write codes and by executing codes we make decision. 
+
+
+
+#### Language2reward
+
+Make LLM generate reward design , then run RL algorithms
+
+As long as we get reward function, PPO and SAC goes fine to discover the optimal policy. This is the bottleneck of RL. 
+
+How to distinguish RL from IL: are we optimizing reward function. 
+
+![image-20240529144534827](./deep-rl-advanced.assets/image-20240529144534827.png)
+
+
+
+
+
+RL only takes reward into consideration so there behaviors are not natural. It is not suitable for all tasks. 
+
+Drawbacks
+
+1. Essentially,  L2R fills the function parameters with numbers.   
+2. L2R heavily relies on a large number of prompts.
+
+
+
+#### Eureka:
+
+Evolution algorithm. 
+
+You let LLM propose a lot of kinds of rewards. 
+
+You write a lot of detectors to test whether these rewards (after solving it by RL) is a good rewards. 
+
+We select the good ones.  (improving reward function)
+
+A very cool thing achieved by this is the pen rotating tasks. 很难用大语言模型训练low level 或high level action series 来实现如此精细的任务，但是Eureka 做到了
+
+
+
+#### GenSim
+
+let LLM generate a simulator
+
+<img src="./deep-rl-advanced.assets/image-20240529150116024.png" alt="image-20240529150116024" style="zoom:50%;" />
+
+
+
+
+
+
+
+
 
 
 

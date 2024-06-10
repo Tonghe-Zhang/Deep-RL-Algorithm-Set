@@ -1,0 +1,52 @@
+name: Autograding Tests
+'on':
+- push
+- repository_dispatch
+permissions:
+  checks: write
+  actions: read
+  contents: read
+jobs:
+  run-autograding-tests:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-classroom[bot]'
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    - name: test_get_policy_loss
+      id: test_get_policy_loss
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: test_get_policy_loss
+        setup-command: sudo -H pip3 install pytest omegaconf dotmap numpy hydra-core
+          jaxtyping beartype matplotlib gymnasium[box2d] moviepy && sudo -H pip3 install
+          torch --index-url https://download.pytorch.org/whl/cpu
+        command: pytest -k test_get_policy_loss
+        timeout: 10
+        max-score: 10
+    - name: test_get_value_loss
+      id: test_get_value_loss
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: test_get_value_loss
+        setup-command: ''
+        command: pytest -k test_get_value_loss
+        timeout: 10
+        max-score: 10
+    - name: test_get_entropy_loss
+      id: test_get_entropy_loss
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: test_get_entropy_loss
+        setup-command: ''
+        command: pytest -k test_get_entropy_loss
+        timeout: 10
+        max-score: 10
+    - name: Autograding Reporter
+      uses: classroom-resources/autograding-grading-reporter@v1
+      env:
+        TEST_GET_POLICY_LOSS_RESULTS: "${{steps.test_get_policy_loss.outputs.result}}"
+        TEST_GET_VALUE_LOSS_RESULTS: "${{steps.test_get_value_loss.outputs.result}}"
+        TEST_GET_ENTROPY_LOSS_RESULTS: "${{steps.test_get_entropy_loss.outputs.result}}"
+      with:
+        runners: test_get_policy_loss,test_get_value_loss,test_get_entropy_loss
