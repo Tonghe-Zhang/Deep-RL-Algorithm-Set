@@ -1,0 +1,9 @@
+把这一行加到train load dataset之后
+
+dataset, env = d3rlpy.datasets.get_dataset(args.dataset)
+dataset = episodes_to_dataset(sorted(dataset, key = lambda episode: -episode.compute_return())[: int(len(dataset) * (1-args.trim_pct))])
+
+
+然后注意把utils.py放到工作路径里面
+
+

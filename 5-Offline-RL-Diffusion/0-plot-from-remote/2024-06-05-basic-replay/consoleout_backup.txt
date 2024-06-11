@@ -1,0 +1,3333 @@
+----------------------------------------------------------------------------------
+| alpha                              | 0.952    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.25     |
+| eval/normalized_episode_reward_std | 2.26     |
+| loss/actor                         | -16.7    |
+| loss/alpha                         | -0.502   |
+| loss/critics                       | 24       |
+| timestep                           | 1000     |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.861    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.25     |
+| eval/normalized_episode_reward_std | 2.26     |
+| loss/actor                         | -35.8    |
+| loss/alpha                         | -1.5     |
+| loss/critics                       | 24.5     |
+| timestep                           | 2000     |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.78     |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.24     |
+| eval/normalized_episode_reward_std | 2.26     |
+| loss/actor                         | -52      |
+| loss/alpha                         | -2.45    |
+| loss/critics                       | 38.3     |
+| timestep                           | 3000     |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.707    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.23     |
+| eval/normalized_episode_reward_std | 2.26     |
+| loss/actor                         | -64.6    |
+| loss/alpha                         | -3.34    |
+| loss/critics                       | 51.2     |
+| timestep                           | 4000     |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.641    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.22     |
+| eval/normalized_episode_reward_std | 2.26     |
+| loss/actor                         | -74.3    |
+| loss/alpha                         | -4.16    |
+| loss/critics                       | 62.4     |
+| timestep                           | 5000     |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.581    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.2      |
+| eval/normalized_episode_reward_std | 2.26     |
+| loss/actor                         | -81.7    |
+| loss/alpha                         | -4.93    |
+| loss/critics                       | 75.2     |
+| timestep                           | 6000     |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.527    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.86     |
+| eval/normalized_episode_reward_std | 2.27     |
+| loss/actor                         | -87.1    |
+| loss/alpha                         | -5.61    |
+| loss/critics                       | 86.5     |
+| timestep                           | 7000     |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.479    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.96     |
+| eval/normalized_episode_reward_std | 2.52     |
+| loss/actor                         | -90.9    |
+| loss/alpha                         | -6.23    |
+| loss/critics                       | 98.3     |
+| timestep                           | 8000     |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.435    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.68     |
+| eval/normalized_episode_reward_std | 2.52     |
+| loss/actor                         | -93.5    |
+| loss/alpha                         | -6.74    |
+| loss/critics                       | 110      |
+| timestep                           | 9000     |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.395    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.4      |
+| eval/normalized_episode_reward_std | 2.4      |
+| loss/actor                         | -95.3    |
+| loss/alpha                         | -7.13    |
+| loss/critics                       | 122      |
+| timestep                           | 10000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.36     |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.37     |
+| eval/normalized_episode_reward_std | 2.49     |
+| loss/actor                         | -96.5    |
+| loss/alpha                         | -7.4     |
+| loss/critics                       | 135      |
+| timestep                           | 11000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.327    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.33     |
+| eval/normalized_episode_reward_std | 2.34     |
+| loss/actor                         | -97.1    |
+| loss/alpha                         | -7.54    |
+| loss/critics                       | 145      |
+| timestep                           | 12000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.298    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.31     |
+| eval/normalized_episode_reward_std | 2.27     |
+| loss/actor                         | -97.7    |
+| loss/alpha                         | -7.52    |
+| loss/critics                       | 157      |
+| timestep                           | 13000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.272    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.42     |
+| eval/normalized_episode_reward_std | 2.4      |
+| loss/actor                         | -98.2    |
+| loss/alpha                         | -7.43    |
+| loss/critics                       | 165      |
+| timestep                           | 14000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.249    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.49     |
+| eval/normalized_episode_reward_std | 2.47     |
+| loss/actor                         | -98.9    |
+| loss/alpha                         | -7.12    |
+| loss/critics                       | 173      |
+| timestep                           | 15000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.227    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.63     |
+| eval/normalized_episode_reward_std | 2.52     |
+| loss/actor                         | -99.7    |
+| loss/alpha                         | -6.8     |
+| loss/critics                       | 186      |
+| timestep                           | 16000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.208    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.72     |
+| eval/normalized_episode_reward_std | 2.73     |
+| loss/actor                         | -100     |
+| loss/alpha                         | -6.4     |
+| loss/critics                       | 199      |
+| timestep                           | 17000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.191    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.8      |
+| eval/normalized_episode_reward_std | 2.81     |
+| loss/actor                         | -101     |
+| loss/alpha                         | -5.92    |
+| loss/critics                       | 209      |
+| timestep                           | 18000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.175    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 3.96     |
+| eval/normalized_episode_reward_std | 3.98     |
+| loss/actor                         | -101     |
+| loss/alpha                         | -5.42    |
+| loss/critics                       | 223      |
+| timestep                           | 19000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.161    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 2.81     |
+| eval/normalized_episode_reward_std | 2.69     |
+| loss/actor                         | -102     |
+| loss/alpha                         | -4.96    |
+| loss/critics                       | 230      |
+| timestep                           | 20000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.148    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 3.48     |
+| eval/normalized_episode_reward_std | 3.32     |
+| loss/actor                         | -102     |
+| loss/alpha                         | -4.29    |
+| loss/critics                       | 243      |
+| timestep                           | 21000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.136    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 4.65     |
+| eval/normalized_episode_reward_std | 4.34     |
+| loss/actor                         | -102     |
+| loss/alpha                         | -3.73    |
+| loss/critics                       | 252      |
+| timestep                           | 22000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.126    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 3.95     |
+| eval/normalized_episode_reward_std | 3.26     |
+| loss/actor                         | -103     |
+| loss/alpha                         | -3.07    |
+| loss/critics                       | 268      |
+| timestep                           | 23000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.117    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 7.16     |
+| eval/normalized_episode_reward_std | 5.5      |
+| loss/actor                         | -104     |
+| loss/alpha                         | -2.33    |
+| loss/critics                       | 279      |
+| timestep                           | 24000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.11     |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 16.9     |
+| eval/normalized_episode_reward_std | 3.31     |
+| loss/actor                         | -104     |
+| loss/alpha                         | -1.65    |
+| loss/critics                       | 288      |
+| timestep                           | 25000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.104    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 17.2     |
+| eval/normalized_episode_reward_std | 5.81     |
+| loss/actor                         | -104     |
+| loss/alpha                         | -1.07    |
+| loss/critics                       | 294      |
+| timestep                           | 26000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.1      |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 20.2     |
+| eval/normalized_episode_reward_std | 5.72     |
+| loss/actor                         | -105     |
+| loss/alpha                         | -0.393   |
+| loss/critics                       | 314      |
+| timestep                           | 27000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0991   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 16.3     |
+| eval/normalized_episode_reward_std | 6.13     |
+| loss/actor                         | -105     |
+| loss/alpha                         | 0.0355   |
+| loss/critics                       | 313      |
+| timestep                           | 28000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.1      |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 20.5     |
+| eval/normalized_episode_reward_std | 7.35     |
+| loss/actor                         | -105     |
+| loss/alpha                         | 0.2      |
+| loss/critics                       | 307      |
+| timestep                           | 29000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.102    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 21.3     |
+| eval/normalized_episode_reward_std | 5.44     |
+| loss/actor                         | -105     |
+| loss/alpha                         | 0.156    |
+| loss/critics                       | 319      |
+| timestep                           | 30000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.103    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 20.9     |
+| eval/normalized_episode_reward_std | 9.44     |
+| loss/actor                         | -104     |
+| loss/alpha                         | 0.178    |
+| loss/critics                       | 310      |
+| timestep                           | 31000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.106    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 17.9     |
+| eval/normalized_episode_reward_std | 11.2     |
+| loss/actor                         | -105     |
+| loss/alpha                         | 0.24     |
+| loss/critics                       | 305      |
+| timestep                           | 32000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.108    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 19.2     |
+| eval/normalized_episode_reward_std | 12.6     |
+| loss/actor                         | -104     |
+| loss/alpha                         | 0.125    |
+| loss/critics                       | 295      |
+| timestep                           | 33000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.108    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 15.8     |
+| eval/normalized_episode_reward_std | 10.5     |
+| loss/actor                         | -104     |
+| loss/alpha                         | -0.0326  |
+| loss/critics                       | 284      |
+| timestep                           | 34000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.108    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 22.7     |
+| eval/normalized_episode_reward_std | 8.53     |
+| loss/actor                         | -104     |
+| loss/alpha                         | -0.00966 |
+| loss/critics                       | 281      |
+| timestep                           | 35000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.107    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 19.8     |
+| eval/normalized_episode_reward_std | 15.8     |
+| loss/actor                         | -103     |
+| loss/alpha                         | -0.115   |
+| loss/critics                       | 282      |
+| timestep                           | 36000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.106    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 40.4     |
+| eval/normalized_episode_reward_std | 3.53     |
+| loss/actor                         | -103     |
+| loss/alpha                         | -0.165   |
+| loss/critics                       | 265      |
+| timestep                           | 37000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.104    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 40.8     |
+| eval/normalized_episode_reward_std | 3.79     |
+| loss/actor                         | -103     |
+| loss/alpha                         | -0.134   |
+| loss/critics                       | 266      |
+| timestep                           | 38000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.104    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 39       |
+| eval/normalized_episode_reward_std | 13.2     |
+| loss/actor                         | -103     |
+| loss/alpha                         | 0.0442   |
+| loss/critics                       | 258      |
+| timestep                           | 39000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.104    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 43       |
+| eval/normalized_episode_reward_std | 3.17     |
+| loss/actor                         | -103     |
+| loss/alpha                         | -0.00544 |
+| loss/critics                       | 251      |
+| timestep                           | 40000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.103    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 42.3     |
+| eval/normalized_episode_reward_std | 2.98     |
+| loss/actor                         | -103     |
+| loss/alpha                         | -0.0275  |
+| loss/critics                       | 248      |
+| timestep                           | 41000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.103    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 44.4     |
+| eval/normalized_episode_reward_std | 2.77     |
+| loss/actor                         | -103     |
+| loss/alpha                         | -0.0322  |
+| loss/critics                       | 233      |
+| timestep                           | 42000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.103    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 43.4     |
+| eval/normalized_episode_reward_std | 2.79     |
+| loss/actor                         | -104     |
+| loss/alpha                         | 0.011    |
+| loss/critics                       | 228      |
+| timestep                           | 43000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.103    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 38.1     |
+| eval/normalized_episode_reward_std | 12.7     |
+| loss/actor                         | -104     |
+| loss/alpha                         | -0.0604  |
+| loss/critics                       | 221      |
+| timestep                           | 44000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.103    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 44       |
+| eval/normalized_episode_reward_std | 2.81     |
+| loss/actor                         | -105     |
+| loss/alpha                         | 0.0133   |
+| loss/critics                       | 220      |
+| timestep                           | 45000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.103    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 44.1     |
+| eval/normalized_episode_reward_std | 2.8      |
+| loss/actor                         | -105     |
+| loss/alpha                         | 0.0457   |
+| loss/critics                       | 213      |
+| timestep                           | 46000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.103    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 31.9     |
+| eval/normalized_episode_reward_std | 18.1     |
+| loss/actor                         | -105     |
+| loss/alpha                         | -0.0247  |
+| loss/critics                       | 208      |
+| timestep                           | 47000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.103    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 44.3     |
+| eval/normalized_episode_reward_std | 2.71     |
+| loss/actor                         | -106     |
+| loss/alpha                         | -0.0298  |
+| loss/critics                       | 206      |
+| timestep                           | 48000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.103    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 43.1     |
+| eval/normalized_episode_reward_std | 8.91     |
+| loss/actor                         | -107     |
+| loss/alpha                         | 0.00122  |
+| loss/critics                       | 201      |
+| timestep                           | 49000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.102    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 44.8     |
+| eval/normalized_episode_reward_std | 3.23     |
+| loss/actor                         | -107     |
+| loss/alpha                         | -0.104   |
+| loss/critics                       | 201      |
+| timestep                           | 50000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.101    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 44.9     |
+| eval/normalized_episode_reward_std | 2.93     |
+| loss/actor                         | -108     |
+| loss/alpha                         | 0.0136   |
+| loss/critics                       | 193      |
+| timestep                           | 51000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.102    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 44.6     |
+| eval/normalized_episode_reward_std | 3.29     |
+| loss/actor                         | -109     |
+| loss/alpha                         | 0.0302   |
+| loss/critics                       | 193      |
+| timestep                           | 52000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.102    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 44.5     |
+| eval/normalized_episode_reward_std | 2.83     |
+| loss/actor                         | -110     |
+| loss/alpha                         | 0.012    |
+| loss/critics                       | 194      |
+| timestep                           | 53000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.102    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 45.3     |
+| eval/normalized_episode_reward_std | 2.98     |
+| loss/actor                         | -111     |
+| loss/alpha                         | 0.0296   |
+| loss/critics                       | 187      |
+| timestep                           | 54000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.103    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 36.9     |
+| eval/normalized_episode_reward_std | 14.3     |
+| loss/actor                         | -111     |
+| loss/alpha                         | -0.00218 |
+| loss/critics                       | 184      |
+| timestep                           | 55000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.103    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 45.8     |
+| eval/normalized_episode_reward_std | 2.63     |
+| loss/actor                         | -112     |
+| loss/alpha                         | -0.00678 |
+| loss/critics                       | 185      |
+| timestep                           | 56000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.102    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 46.2     |
+| eval/normalized_episode_reward_std | 2.78     |
+| loss/actor                         | -113     |
+| loss/alpha                         | -0.0769  |
+| loss/critics                       | 183      |
+| timestep                           | 57000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.101    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 45.2     |
+| eval/normalized_episode_reward_std | 3.01     |
+| loss/actor                         | -114     |
+| loss/alpha                         | -0.0572  |
+| loss/critics                       | 180      |
+| timestep                           | 58000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.101    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 45.4     |
+| eval/normalized_episode_reward_std | 3.26     |
+| loss/actor                         | -115     |
+| loss/alpha                         | -0.0235  |
+| loss/critics                       | 173      |
+| timestep                           | 59000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.101    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 42.9     |
+| eval/normalized_episode_reward_std | 12       |
+| loss/actor                         | -115     |
+| loss/alpha                         | 0.00911  |
+| loss/critics                       | 175      |
+| timestep                           | 60000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.101    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 45.8     |
+| eval/normalized_episode_reward_std | 2.9      |
+| loss/actor                         | -117     |
+| loss/alpha                         | 0.0807   |
+| loss/critics                       | 171      |
+| timestep                           | 61000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.101    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 42.4     |
+| eval/normalized_episode_reward_std | 13.1     |
+| loss/actor                         | -117     |
+| loss/alpha                         | -0.141   |
+| loss/critics                       | 168      |
+| timestep                           | 62000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0995   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 46.4     |
+| eval/normalized_episode_reward_std | 2.83     |
+| loss/actor                         | -118     |
+| loss/alpha                         | -0.122   |
+| loss/critics                       | 170      |
+| timestep                           | 63000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0988   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 46.4     |
+| eval/normalized_episode_reward_std | 3.1      |
+| loss/actor                         | -119     |
+| loss/alpha                         | 0.025    |
+| loss/critics                       | 161      |
+| timestep                           | 64000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0989   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 46       |
+| eval/normalized_episode_reward_std | 2.71     |
+| loss/actor                         | -120     |
+| loss/alpha                         | -0.0445  |
+| loss/critics                       | 161      |
+| timestep                           | 65000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0988   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 46.3     |
+| eval/normalized_episode_reward_std | 2.91     |
+| loss/actor                         | -121     |
+| loss/alpha                         | 0.0116   |
+| loss/critics                       | 163      |
+| timestep                           | 66000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0993   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 44.5     |
+| eval/normalized_episode_reward_std | 2.8      |
+| loss/actor                         | -122     |
+| loss/alpha                         | 0.0772   |
+| loss/critics                       | 159      |
+| timestep                           | 67000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0993   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 43.2     |
+| eval/normalized_episode_reward_std | 12.8     |
+| loss/actor                         | -122     |
+| loss/alpha                         | -0.031   |
+| loss/critics                       | 155      |
+| timestep                           | 68000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0989   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 46.7     |
+| eval/normalized_episode_reward_std | 2.85     |
+| loss/actor                         | -123     |
+| loss/alpha                         | -0.0643  |
+| loss/critics                       | 154      |
+| timestep                           | 69000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0984   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 44.5     |
+| eval/normalized_episode_reward_std | 7.59     |
+| loss/actor                         | -124     |
+| loss/alpha                         | -0.0243  |
+| loss/critics                       | 153      |
+| timestep                           | 70000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0975   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 43.7     |
+| eval/normalized_episode_reward_std | 9.89     |
+| loss/actor                         | -125     |
+| loss/alpha                         | -0.124   |
+| loss/critics                       | 153      |
+| timestep                           | 71000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0974   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47       |
+| eval/normalized_episode_reward_std | 2.6      |
+| loss/actor                         | -126     |
+| loss/alpha                         | 0.0225   |
+| loss/critics                       | 148      |
+| timestep                           | 72000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0972   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.3     |
+| eval/normalized_episode_reward_std | 2.83     |
+| loss/actor                         | -128     |
+| loss/alpha                         | 0.017    |
+| loss/critics                       | 146      |
+| timestep                           | 73000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0978   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 46.9     |
+| eval/normalized_episode_reward_std | 2.77     |
+| loss/actor                         | -128     |
+| loss/alpha                         | 0.0239   |
+| loss/critics                       | 148      |
+| timestep                           | 74000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0982   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 39.5     |
+| eval/normalized_episode_reward_std | 12       |
+| loss/actor                         | -130     |
+| loss/alpha                         | 0.0685   |
+| loss/critics                       | 147      |
+| timestep                           | 75000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.098    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 46.7     |
+| eval/normalized_episode_reward_std | 2.96     |
+| loss/actor                         | -130     |
+| loss/alpha                         | -0.0914  |
+| loss/critics                       | 146      |
+| timestep                           | 76000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.098    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 46.1     |
+| eval/normalized_episode_reward_std | 2.83     |
+| loss/actor                         | -131     |
+| loss/alpha                         | 0.0361   |
+| loss/critics                       | 143      |
+| timestep                           | 77000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0984   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 46       |
+| eval/normalized_episode_reward_std | 7.32     |
+| loss/actor                         | -132     |
+| loss/alpha                         | 0.0993   |
+| loss/critics                       | 148      |
+| timestep                           | 78000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0987   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.1     |
+| eval/normalized_episode_reward_std | 2.92     |
+| loss/actor                         | -133     |
+| loss/alpha                         | -0.0429  |
+| loss/critics                       | 138      |
+| timestep                           | 79000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0976   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.4     |
+| eval/normalized_episode_reward_std | 2.81     |
+| loss/actor                         | -133     |
+| loss/alpha                         | -0.161   |
+| loss/critics                       | 140      |
+| timestep                           | 80000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0966   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.4     |
+| eval/normalized_episode_reward_std | 2.78     |
+| loss/actor                         | -134     |
+| loss/alpha                         | -0.0856  |
+| loss/critics                       | 136      |
+| timestep                           | 81000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.096    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.4     |
+| eval/normalized_episode_reward_std | 2.71     |
+| loss/actor                         | -135     |
+| loss/alpha                         | -0.0268  |
+| loss/critics                       | 136      |
+| timestep                           | 82000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0955   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.6     |
+| eval/normalized_episode_reward_std | 2.56     |
+| loss/actor                         | -135     |
+| loss/alpha                         | -0.0595  |
+| loss/critics                       | 131      |
+| timestep                           | 83000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0951   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47       |
+| eval/normalized_episode_reward_std | 2.91     |
+| loss/actor                         | -137     |
+| loss/alpha                         | 0.00917  |
+| loss/critics                       | 132      |
+| timestep                           | 84000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0946   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 43.6     |
+| eval/normalized_episode_reward_std | 13.6     |
+| loss/actor                         | -137     |
+| loss/alpha                         | -0.13    |
+| loss/critics                       | 130      |
+| timestep                           | 85000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0941   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47       |
+| eval/normalized_episode_reward_std | 2.75     |
+| loss/actor                         | -138     |
+| loss/alpha                         | 0.0804   |
+| loss/critics                       | 128      |
+| timestep                           | 86000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0949   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.3     |
+| eval/normalized_episode_reward_std | 2.8      |
+| loss/actor                         | -139     |
+| loss/alpha                         | 0.0586   |
+| loss/critics                       | 129      |
+| timestep                           | 87000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.095    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.4     |
+| eval/normalized_episode_reward_std | 2.79     |
+| loss/actor                         | -139     |
+| loss/alpha                         | -0.0163  |
+| loss/critics                       | 127      |
+| timestep                           | 88000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0949   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 42.3     |
+| eval/normalized_episode_reward_std | 13.1     |
+| loss/actor                         | -140     |
+| loss/alpha                         | -0.0596  |
+| loss/critics                       | 126      |
+| timestep                           | 89000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0943   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 42       |
+| eval/normalized_episode_reward_std | 11.7     |
+| loss/actor                         | -141     |
+| loss/alpha                         | -0.0555  |
+| loss/critics                       | 123      |
+| timestep                           | 90000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0942   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.5     |
+| eval/normalized_episode_reward_std | 2.56     |
+| loss/actor                         | -142     |
+| loss/alpha                         | 0.0467   |
+| loss/critics                       | 129      |
+| timestep                           | 91000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0947   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48       |
+| eval/normalized_episode_reward_std | 2.75     |
+| loss/actor                         | -142     |
+| loss/alpha                         | 0.0353   |
+| loss/critics                       | 123      |
+| timestep                           | 92000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0947   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 46.9     |
+| eval/normalized_episode_reward_std | 2.83     |
+| loss/actor                         | -143     |
+| loss/alpha                         | -0.035   |
+| loss/critics                       | 122      |
+| timestep                           | 93000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0945   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.6     |
+| eval/normalized_episode_reward_std | 2.74     |
+| loss/actor                         | -144     |
+| loss/alpha                         | 0.0168   |
+| loss/critics                       | 123      |
+| timestep                           | 94000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0944   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.8     |
+| eval/normalized_episode_reward_std | 2.64     |
+| loss/actor                         | -145     |
+| loss/alpha                         | -0.0143  |
+| loss/critics                       | 119      |
+| timestep                           | 95000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0941   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 45.3     |
+| eval/normalized_episode_reward_std | 8.22     |
+| loss/actor                         | -144     |
+| loss/alpha                         | -0.0834  |
+| loss/critics                       | 121      |
+| timestep                           | 96000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0939   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 46.6     |
+| eval/normalized_episode_reward_std | 2.54     |
+| loss/actor                         | -146     |
+| loss/alpha                         | 0.0541   |
+| loss/critics                       | 118      |
+| timestep                           | 97000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0945   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.2     |
+| eval/normalized_episode_reward_std | 2.82     |
+| loss/actor                         | -147     |
+| loss/alpha                         | 0.0167   |
+| loss/critics                       | 116      |
+| timestep                           | 98000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.094    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.1     |
+| eval/normalized_episode_reward_std | 2.74     |
+| loss/actor                         | -147     |
+| loss/alpha                         | -0.0589  |
+| loss/critics                       | 118      |
+| timestep                           | 99000    |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0937   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.8     |
+| eval/normalized_episode_reward_std | 2.93     |
+| loss/actor                         | -148     |
+| loss/alpha                         | -0.0191  |
+| loss/critics                       | 115      |
+| timestep                           | 100000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0938   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.8     |
+| eval/normalized_episode_reward_std | 2.83     |
+| loss/actor                         | -148     |
+| loss/alpha                         | 0.0348   |
+| loss/critics                       | 114      |
+| timestep                           | 101000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0939   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.5     |
+| eval/normalized_episode_reward_std | 2.88     |
+| loss/actor                         | -149     |
+| loss/alpha                         | -0.046   |
+| loss/critics                       | 113      |
+| timestep                           | 102000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0939   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.2     |
+| eval/normalized_episode_reward_std | 2.66     |
+| loss/actor                         | -149     |
+| loss/alpha                         | 0.0534   |
+| loss/critics                       | 119      |
+| timestep                           | 103000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0939   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 45.8     |
+| eval/normalized_episode_reward_std | 9.07     |
+| loss/actor                         | -150     |
+| loss/alpha                         | 0.00173  |
+| loss/critics                       | 108      |
+| timestep                           | 104000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0937   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.9     |
+| eval/normalized_episode_reward_std | 2.73     |
+| loss/actor                         | -150     |
+| loss/alpha                         | -0.0484  |
+| loss/critics                       | 111      |
+| timestep                           | 105000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0936   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.9     |
+| eval/normalized_episode_reward_std | 2.69     |
+| loss/actor                         | -151     |
+| loss/alpha                         | -0.00774 |
+| loss/critics                       | 110      |
+| timestep                           | 106000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0935   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.7     |
+| eval/normalized_episode_reward_std | 2.63     |
+| loss/actor                         | -151     |
+| loss/alpha                         | 0.0334   |
+| loss/critics                       | 107      |
+| timestep                           | 107000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.094    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.1     |
+| eval/normalized_episode_reward_std | 2.65     |
+| loss/actor                         | -152     |
+| loss/alpha                         | 0.0103   |
+| loss/critics                       | 111      |
+| timestep                           | 108000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0933   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.9     |
+| eval/normalized_episode_reward_std | 2.96     |
+| loss/actor                         | -153     |
+| loss/alpha                         | -0.0982  |
+| loss/critics                       | 110      |
+| timestep                           | 109000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0931   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.3     |
+| eval/normalized_episode_reward_std | 2.93     |
+| loss/actor                         | -153     |
+| loss/alpha                         | 0.0157   |
+| loss/critics                       | 106      |
+| timestep                           | 110000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.093    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48       |
+| eval/normalized_episode_reward_std | 2.87     |
+| loss/actor                         | -154     |
+| loss/alpha                         | -0.0808  |
+| loss/critics                       | 107      |
+| timestep                           | 111000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0928   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.2     |
+| eval/normalized_episode_reward_std | 2.78     |
+| loss/actor                         | -155     |
+| loss/alpha                         | 0.0808   |
+| loss/critics                       | 102      |
+| timestep                           | 112000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0933   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48       |
+| eval/normalized_episode_reward_std | 3.07     |
+| loss/actor                         | -155     |
+| loss/alpha                         | -0.013   |
+| loss/critics                       | 103      |
+| timestep                           | 113000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0929   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.4     |
+| eval/normalized_episode_reward_std | 2.59     |
+| loss/actor                         | -155     |
+| loss/alpha                         | -0.0538  |
+| loss/critics                       | 110      |
+| timestep                           | 114000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0921   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.4     |
+| eval/normalized_episode_reward_std | 2.56     |
+| loss/actor                         | -156     |
+| loss/alpha                         | -0.0471  |
+| loss/critics                       | 101      |
+| timestep                           | 115000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0923   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.6     |
+| eval/normalized_episode_reward_std | 2.73     |
+| loss/actor                         | -157     |
+| loss/alpha                         | 0.0667   |
+| loss/critics                       | 102      |
+| timestep                           | 116000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0926   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.5     |
+| eval/normalized_episode_reward_std | 2.84     |
+| loss/actor                         | -157     |
+| loss/alpha                         | 0.00698  |
+| loss/critics                       | 102      |
+| timestep                           | 117000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0923   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.3     |
+| eval/normalized_episode_reward_std | 2.78     |
+| loss/actor                         | -157     |
+| loss/alpha                         | -0.122   |
+| loss/critics                       | 101      |
+| timestep                           | 118000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0919   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48       |
+| eval/normalized_episode_reward_std | 2.87     |
+| loss/actor                         | -158     |
+| loss/alpha                         | 0.0552   |
+| loss/critics                       | 101      |
+| timestep                           | 119000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0924   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.7     |
+| eval/normalized_episode_reward_std | 2.79     |
+| loss/actor                         | -158     |
+| loss/alpha                         | 0.074    |
+| loss/critics                       | 101      |
+| timestep                           | 120000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0924   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.6     |
+| eval/normalized_episode_reward_std | 2.81     |
+| loss/actor                         | -158     |
+| loss/alpha                         | -0.074   |
+| loss/critics                       | 93.8     |
+| timestep                           | 121000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0922   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.9     |
+| eval/normalized_episode_reward_std | 2.76     |
+| loss/actor                         | -159     |
+| loss/alpha                         | 0.0401   |
+| loss/critics                       | 98.5     |
+| timestep                           | 122000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0923   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.5     |
+| eval/normalized_episode_reward_std | 2.79     |
+| loss/actor                         | -159     |
+| loss/alpha                         | -0.0406  |
+| loss/critics                       | 97.9     |
+| timestep                           | 123000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0921   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.9     |
+| eval/normalized_episode_reward_std | 2.8      |
+| loss/actor                         | -160     |
+| loss/alpha                         | -0.0127  |
+| loss/critics                       | 96.1     |
+| timestep                           | 124000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0917   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.2     |
+| eval/normalized_episode_reward_std | 2.6      |
+| loss/actor                         | -160     |
+| loss/alpha                         | -0.0804  |
+| loss/critics                       | 94.3     |
+| timestep                           | 125000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0915   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.7     |
+| eval/normalized_episode_reward_std | 2.78     |
+| loss/actor                         | -161     |
+| loss/alpha                         | 0.076    |
+| loss/critics                       | 96       |
+| timestep                           | 126000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0916   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.3     |
+| eval/normalized_episode_reward_std | 2.6      |
+| loss/actor                         | -161     |
+| loss/alpha                         | -0.0739  |
+| loss/critics                       | 94.5     |
+| timestep                           | 127000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0915   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.2     |
+| eval/normalized_episode_reward_std | 2.78     |
+| loss/actor                         | -162     |
+| loss/alpha                         | 0.0093   |
+| loss/critics                       | 92.7     |
+| timestep                           | 128000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0916   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.6     |
+| eval/normalized_episode_reward_std | 2.81     |
+| loss/actor                         | -162     |
+| loss/alpha                         | 0.0538   |
+| loss/critics                       | 95.8     |
+| timestep                           | 129000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0919   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.3     |
+| eval/normalized_episode_reward_std | 2.65     |
+| loss/actor                         | -163     |
+| loss/alpha                         | 0.0556   |
+| loss/critics                       | 90.6     |
+| timestep                           | 130000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0925   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49       |
+| eval/normalized_episode_reward_std | 3        |
+| loss/actor                         | -163     |
+| loss/alpha                         | -0.0236  |
+| loss/critics                       | 92.2     |
+| timestep                           | 131000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0916   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.8     |
+| eval/normalized_episode_reward_std | 2.94     |
+| loss/actor                         | -163     |
+| loss/alpha                         | -0.0696  |
+| loss/critics                       | 93.6     |
+| timestep                           | 132000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0911   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.6     |
+| eval/normalized_episode_reward_std | 2.55     |
+| loss/actor                         | -163     |
+| loss/alpha                         | -0.0768  |
+| loss/critics                       | 92.4     |
+| timestep                           | 133000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0907   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.1     |
+| eval/normalized_episode_reward_std | 2.77     |
+| loss/actor                         | -164     |
+| loss/alpha                         | -0.0412  |
+| loss/critics                       | 86.9     |
+| timestep                           | 134000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0904   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.7     |
+| eval/normalized_episode_reward_std | 2.71     |
+| loss/actor                         | -165     |
+| loss/alpha                         | 0.0302   |
+| loss/critics                       | 89.2     |
+| timestep                           | 135000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0905   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.4     |
+| eval/normalized_episode_reward_std | 2.63     |
+| loss/actor                         | -164     |
+| loss/alpha                         | -0.0517  |
+| loss/critics                       | 88.6     |
+| timestep                           | 136000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0904   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.4     |
+| eval/normalized_episode_reward_std | 2.76     |
+| loss/actor                         | -165     |
+| loss/alpha                         | 0.021    |
+| loss/critics                       | 87.8     |
+| timestep                           | 137000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0901   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.2     |
+| eval/normalized_episode_reward_std | 2.81     |
+| loss/actor                         | -165     |
+| loss/alpha                         | -0.0497  |
+| loss/critics                       | 86.3     |
+| timestep                           | 138000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0899   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.4     |
+| eval/normalized_episode_reward_std | 2.62     |
+| loss/actor                         | -166     |
+| loss/alpha                         | -0.00155 |
+| loss/critics                       | 87.7     |
+| timestep                           | 139000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0904   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.6     |
+| eval/normalized_episode_reward_std | 2.62     |
+| loss/actor                         | -166     |
+| loss/alpha                         | 0.11     |
+| loss/critics                       | 84.6     |
+| timestep                           | 140000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0907   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.1     |
+| eval/normalized_episode_reward_std | 2.84     |
+| loss/actor                         | -167     |
+| loss/alpha                         | -0.0782  |
+| loss/critics                       | 87.6     |
+| timestep                           | 141000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0899   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.2     |
+| eval/normalized_episode_reward_std | 2.59     |
+| loss/actor                         | -166     |
+| loss/alpha                         | -0.0333  |
+| loss/critics                       | 84.8     |
+| timestep                           | 142000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0899   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49       |
+| eval/normalized_episode_reward_std | 2.55     |
+| loss/actor                         | -167     |
+| loss/alpha                         | -0.00188 |
+| loss/critics                       | 85.3     |
+| timestep                           | 143000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0899   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.2     |
+| eval/normalized_episode_reward_std | 2.69     |
+| loss/actor                         | -168     |
+| loss/alpha                         | -0.0167  |
+| loss/critics                       | 85.4     |
+| timestep                           | 144000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.09     |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.3     |
+| eval/normalized_episode_reward_std | 2.66     |
+| loss/actor                         | -168     |
+| loss/alpha                         | 0.0314   |
+| loss/critics                       | 85.6     |
+| timestep                           | 145000   |
+----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+| alpha                              | 0.0899    |
+| eval/episode_length                | 1e+03     |
+| eval/episode_length_std            | 0         |
+| eval/normalized_episode_reward     | 48.6      |
+| eval/normalized_episode_reward_std | 2.75      |
+| loss/actor                         | -168      |
+| loss/alpha                         | -0.000155 |
+| loss/critics                       | 84.1      |
+| timestep                           | 146000    |
+-----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0895   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.5     |
+| eval/normalized_episode_reward_std | 2.75     |
+| loss/actor                         | -168     |
+| loss/alpha                         | -0.029   |
+| loss/critics                       | 82.2     |
+| timestep                           | 147000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0896   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.1     |
+| eval/normalized_episode_reward_std | 2.59     |
+| loss/actor                         | -169     |
+| loss/alpha                         | 0.0123   |
+| loss/critics                       | 83.4     |
+| timestep                           | 148000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0895   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49       |
+| eval/normalized_episode_reward_std | 2.6      |
+| loss/actor                         | -168     |
+| loss/alpha                         | -0.0627  |
+| loss/critics                       | 82.5     |
+| timestep                           | 149000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0895   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.4     |
+| eval/normalized_episode_reward_std | 3.04     |
+| loss/actor                         | -170     |
+| loss/alpha                         | 0.0483   |
+| loss/critics                       | 82.3     |
+| timestep                           | 150000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0896   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.6     |
+| eval/normalized_episode_reward_std | 3        |
+| loss/actor                         | -169     |
+| loss/alpha                         | -0.0332  |
+| loss/critics                       | 82.1     |
+| timestep                           | 151000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0895   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49       |
+| eval/normalized_episode_reward_std | 2.78     |
+| loss/actor                         | -170     |
+| loss/alpha                         | 0.0344   |
+| loss/critics                       | 82.8     |
+| timestep                           | 152000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0898   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.3     |
+| eval/normalized_episode_reward_std | 2.78     |
+| loss/actor                         | -170     |
+| loss/alpha                         | 0.0297   |
+| loss/critics                       | 79.3     |
+| timestep                           | 153000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0902   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.3     |
+| eval/normalized_episode_reward_std | 2.84     |
+| loss/actor                         | -171     |
+| loss/alpha                         | 0.0271   |
+| loss/critics                       | 81.4     |
+| timestep                           | 154000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0901   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.1     |
+| eval/normalized_episode_reward_std | 2.72     |
+| loss/actor                         | -171     |
+| loss/alpha                         | -0.0226  |
+| loss/critics                       | 78.5     |
+| timestep                           | 155000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0902   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.8     |
+| eval/normalized_episode_reward_std | 2.55     |
+| loss/actor                         | -171     |
+| loss/alpha                         | 0.0583   |
+| loss/critics                       | 79.7     |
+| timestep                           | 156000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0903   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49       |
+| eval/normalized_episode_reward_std | 2.6      |
+| loss/actor                         | -171     |
+| loss/alpha                         | -0.00245 |
+| loss/critics                       | 80       |
+| timestep                           | 157000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0906   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.5     |
+| eval/normalized_episode_reward_std | 2.84     |
+| loss/actor                         | -172     |
+| loss/alpha                         | 0.0193   |
+| loss/critics                       | 77.5     |
+| timestep                           | 158000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0902   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.7     |
+| eval/normalized_episode_reward_std | 2.64     |
+| loss/actor                         | -172     |
+| loss/alpha                         | -0.0707  |
+| loss/critics                       | 80.5     |
+| timestep                           | 159000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0897   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.3     |
+| eval/normalized_episode_reward_std | 2.51     |
+| loss/actor                         | -172     |
+| loss/alpha                         | -0.0521  |
+| loss/critics                       | 77.4     |
+| timestep                           | 160000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0895   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.3     |
+| eval/normalized_episode_reward_std | 2.75     |
+| loss/actor                         | -173     |
+| loss/alpha                         | -0.0156  |
+| loss/critics                       | 77.5     |
+| timestep                           | 161000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0892   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.4     |
+| eval/normalized_episode_reward_std | 2.54     |
+| loss/actor                         | -173     |
+| loss/alpha                         | -0.0157  |
+| loss/critics                       | 75.9     |
+| timestep                           | 162000   |
+----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+| alpha                              | 0.0893    |
+| eval/episode_length                | 1e+03     |
+| eval/episode_length_std            | 0         |
+| eval/normalized_episode_reward     | 49        |
+| eval/normalized_episode_reward_std | 2.68      |
+| loss/actor                         | -173      |
+| loss/alpha                         | -0.000168 |
+| loss/critics                       | 78        |
+| timestep                           | 163000    |
+-----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0892   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.6     |
+| eval/normalized_episode_reward_std | 2.64     |
+| loss/actor                         | -173     |
+| loss/alpha                         | -0.0136  |
+| loss/critics                       | 77.2     |
+| timestep                           | 164000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0887   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.6     |
+| eval/normalized_episode_reward_std | 2.85     |
+| loss/actor                         | -173     |
+| loss/alpha                         | -0.0642  |
+| loss/critics                       | 75.2     |
+| timestep                           | 165000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0883   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.3     |
+| eval/normalized_episode_reward_std | 2.66     |
+| loss/actor                         | -173     |
+| loss/alpha                         | -0.00442 |
+| loss/critics                       | 76       |
+| timestep                           | 166000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0886   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49       |
+| eval/normalized_episode_reward_std | 2.8      |
+| loss/actor                         | -174     |
+| loss/alpha                         | 0.0288   |
+| loss/critics                       | 75.4     |
+| timestep                           | 167000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0884   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.1     |
+| eval/normalized_episode_reward_std | 2.7      |
+| loss/actor                         | -174     |
+| loss/alpha                         | -0.0339  |
+| loss/critics                       | 76.3     |
+| timestep                           | 168000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0886   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49       |
+| eval/normalized_episode_reward_std | 2.51     |
+| loss/actor                         | -174     |
+| loss/alpha                         | 0.0333   |
+| loss/critics                       | 75.2     |
+| timestep                           | 169000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.089    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49       |
+| eval/normalized_episode_reward_std | 3.16     |
+| loss/actor                         | -174     |
+| loss/alpha                         | 0.0572   |
+| loss/critics                       | 74       |
+| timestep                           | 170000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0891   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.2     |
+| eval/normalized_episode_reward_std | 2.78     |
+| loss/actor                         | -175     |
+| loss/alpha                         | -0.0391  |
+| loss/critics                       | 75.9     |
+| timestep                           | 171000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.089    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.1     |
+| eval/normalized_episode_reward_std | 2.74     |
+| loss/actor                         | -175     |
+| loss/alpha                         | 0.0197   |
+| loss/critics                       | 73.6     |
+| timestep                           | 172000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0895   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.8     |
+| eval/normalized_episode_reward_std | 2.81     |
+| loss/actor                         | -175     |
+| loss/alpha                         | 0.0532   |
+| loss/critics                       | 72.4     |
+| timestep                           | 173000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0891   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 45.7     |
+| eval/normalized_episode_reward_std | 15.3     |
+| loss/actor                         | -176     |
+| loss/alpha                         | -0.0782  |
+| loss/critics                       | 75.2     |
+| timestep                           | 174000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0889   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.2     |
+| eval/normalized_episode_reward_std | 2.79     |
+| loss/actor                         | -176     |
+| loss/alpha                         | 0.0176   |
+| loss/critics                       | 72.8     |
+| timestep                           | 175000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0892   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.4     |
+| eval/normalized_episode_reward_std | 2.86     |
+| loss/actor                         | -176     |
+| loss/alpha                         | -0.0379  |
+| loss/critics                       | 73.1     |
+| timestep                           | 176000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0888   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.2     |
+| eval/normalized_episode_reward_std | 2.72     |
+| loss/actor                         | -177     |
+| loss/alpha                         | 0.027    |
+| loss/critics                       | 72       |
+| timestep                           | 177000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0889   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.9     |
+| eval/normalized_episode_reward_std | 2.78     |
+| loss/actor                         | -176     |
+| loss/alpha                         | -0.00458 |
+| loss/critics                       | 72.4     |
+| timestep                           | 178000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0892   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.6     |
+| eval/normalized_episode_reward_std | 2.85     |
+| loss/actor                         | -176     |
+| loss/alpha                         | 0.0575   |
+| loss/critics                       | 72.5     |
+| timestep                           | 179000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.089    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.7     |
+| eval/normalized_episode_reward_std | 2.65     |
+| loss/actor                         | -177     |
+| loss/alpha                         | -0.0556  |
+| loss/critics                       | 72.7     |
+| timestep                           | 180000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0889   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48.2     |
+| eval/normalized_episode_reward_std | 5.56     |
+| loss/actor                         | -177     |
+| loss/alpha                         | -0.0111  |
+| loss/critics                       | 71.7     |
+| timestep                           | 181000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.089    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.5     |
+| eval/normalized_episode_reward_std | 2.68     |
+| loss/actor                         | -177     |
+| loss/alpha                         | 0.0301   |
+| loss/critics                       | 70.7     |
+| timestep                           | 182000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0889   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.2     |
+| eval/normalized_episode_reward_std | 2.8      |
+| loss/actor                         | -177     |
+| loss/alpha                         | 2.95e-05 |
+| loss/critics                       | 71.5     |
+| timestep                           | 183000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0892   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.6     |
+| eval/normalized_episode_reward_std | 2.53     |
+| loss/actor                         | -178     |
+| loss/alpha                         | 0.0255   |
+| loss/critics                       | 71       |
+| timestep                           | 184000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0891   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.1     |
+| eval/normalized_episode_reward_std | 2.63     |
+| loss/actor                         | -177     |
+| loss/alpha                         | -0.0667  |
+| loss/critics                       | 70.2     |
+| timestep                           | 185000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0888   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.7     |
+| eval/normalized_episode_reward_std | 2.54     |
+| loss/actor                         | -178     |
+| loss/alpha                         | 0.0144   |
+| loss/critics                       | 69.5     |
+| timestep                           | 186000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0887   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.1     |
+| eval/normalized_episode_reward_std | 2.65     |
+| loss/actor                         | -178     |
+| loss/alpha                         | 0.00143  |
+| loss/critics                       | 70.7     |
+| timestep                           | 187000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0887   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.7     |
+| eval/normalized_episode_reward_std | 2.59     |
+| loss/actor                         | -178     |
+| loss/alpha                         | -0.0273  |
+| loss/critics                       | 70.3     |
+| timestep                           | 188000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0885   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.9     |
+| eval/normalized_episode_reward_std | 2.75     |
+| loss/actor                         | -179     |
+| loss/alpha                         | 0.00279  |
+| loss/critics                       | 66.7     |
+| timestep                           | 189000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0889   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.3     |
+| eval/normalized_episode_reward_std | 2.61     |
+| loss/actor                         | -179     |
+| loss/alpha                         | 0.0635   |
+| loss/critics                       | 70.7     |
+| timestep                           | 190000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0894   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49       |
+| eval/normalized_episode_reward_std | 2.71     |
+| loss/actor                         | -179     |
+| loss/alpha                         | -0.0104  |
+| loss/critics                       | 68.7     |
+| timestep                           | 191000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0891   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.2     |
+| eval/normalized_episode_reward_std | 2.58     |
+| loss/actor                         | -180     |
+| loss/alpha                         | -0.00178 |
+| loss/critics                       | 68.5     |
+| timestep                           | 192000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0891   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.9     |
+| eval/normalized_episode_reward_std | 2.63     |
+| loss/actor                         | -180     |
+| loss/alpha                         | 0.00574  |
+| loss/critics                       | 67.3     |
+| timestep                           | 193000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0892   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.6     |
+| eval/normalized_episode_reward_std | 2.79     |
+| loss/actor                         | -180     |
+| loss/alpha                         | 0.0112   |
+| loss/critics                       | 69.2     |
+| timestep                           | 194000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0895   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.8     |
+| eval/normalized_episode_reward_std | 2.79     |
+| loss/actor                         | -180     |
+| loss/alpha                         | 0.0949   |
+| loss/critics                       | 68       |
+| timestep                           | 195000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0899   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.8     |
+| eval/normalized_episode_reward_std | 2.54     |
+| loss/actor                         | -180     |
+| loss/alpha                         | -0.0394  |
+| loss/critics                       | 67       |
+| timestep                           | 196000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0895   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.1     |
+| eval/normalized_episode_reward_std | 2.81     |
+| loss/actor                         | -180     |
+| loss/alpha                         | -0.0226  |
+| loss/critics                       | 69.2     |
+| timestep                           | 197000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0895   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.5     |
+| eval/normalized_episode_reward_std | 2.77     |
+| loss/actor                         | -180     |
+| loss/alpha                         | -0.0101  |
+| loss/critics                       | 66       |
+| timestep                           | 198000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0891   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50       |
+| eval/normalized_episode_reward_std | 2.64     |
+| loss/actor                         | -181     |
+| loss/alpha                         | -0.0484  |
+| loss/critics                       | 69       |
+| timestep                           | 199000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0892   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.4     |
+| eval/normalized_episode_reward_std | 2.83     |
+| loss/actor                         | -181     |
+| loss/alpha                         | 0.0782   |
+| loss/critics                       | 66.2     |
+| timestep                           | 200000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0896   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.3     |
+| eval/normalized_episode_reward_std | 2.63     |
+| loss/actor                         | -181     |
+| loss/alpha                         | -0.00715 |
+| loss/critics                       | 67.1     |
+| timestep                           | 201000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0898   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50       |
+| eval/normalized_episode_reward_std | 2.77     |
+| loss/actor                         | -181     |
+| loss/alpha                         | 0.0226   |
+| loss/critics                       | 66.1     |
+| timestep                           | 202000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0896   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.8     |
+| eval/normalized_episode_reward_std | 2.69     |
+| loss/actor                         | -181     |
+| loss/alpha                         | -0.0389  |
+| loss/critics                       | 69.2     |
+| timestep                           | 203000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0898   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.1     |
+| eval/normalized_episode_reward_std | 2.75     |
+| loss/actor                         | -182     |
+| loss/alpha                         | 0.0201   |
+| loss/critics                       | 65.8     |
+| timestep                           | 204000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0895   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.5     |
+| eval/normalized_episode_reward_std | 2.77     |
+| loss/actor                         | -182     |
+| loss/alpha                         | -0.0104  |
+| loss/critics                       | 66.6     |
+| timestep                           | 205000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0894   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49       |
+| eval/normalized_episode_reward_std | 2.68     |
+| loss/actor                         | -182     |
+| loss/alpha                         | -0.0567  |
+| loss/critics                       | 67.5     |
+| timestep                           | 206000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0887   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50       |
+| eval/normalized_episode_reward_std | 2.55     |
+| loss/actor                         | -181     |
+| loss/alpha                         | -0.11    |
+| loss/critics                       | 66.9     |
+| timestep                           | 207000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0884   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.4     |
+| eval/normalized_episode_reward_std | 2.79     |
+| loss/actor                         | -182     |
+| loss/alpha                         | 0.0853   |
+| loss/critics                       | 65.3     |
+| timestep                           | 208000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0886   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.9     |
+| eval/normalized_episode_reward_std | 2.58     |
+| loss/actor                         | -182     |
+| loss/alpha                         | -0.0389  |
+| loss/critics                       | 66.3     |
+| timestep                           | 209000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.089    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.1     |
+| eval/normalized_episode_reward_std | 2.59     |
+| loss/actor                         | -183     |
+| loss/alpha                         | 0.132    |
+| loss/critics                       | 63.5     |
+| timestep                           | 210000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0897   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.1     |
+| eval/normalized_episode_reward_std | 2.6      |
+| loss/actor                         | -183     |
+| loss/alpha                         | -0.0234  |
+| loss/critics                       | 65.6     |
+| timestep                           | 211000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0892   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.3     |
+| eval/normalized_episode_reward_std | 2.71     |
+| loss/actor                         | -182     |
+| loss/alpha                         | -0.0529  |
+| loss/critics                       | 65.6     |
+| timestep                           | 212000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0896   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.7     |
+| eval/normalized_episode_reward_std | 2.58     |
+| loss/actor                         | -183     |
+| loss/alpha                         | 0.112    |
+| loss/critics                       | 65.3     |
+| timestep                           | 213000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0898   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.9     |
+| eval/normalized_episode_reward_std | 2.73     |
+| loss/actor                         | -183     |
+| loss/alpha                         | -0.00543 |
+| loss/critics                       | 64.5     |
+| timestep                           | 214000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0898   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.4     |
+| eval/normalized_episode_reward_std | 2.58     |
+| loss/actor                         | -182     |
+| loss/alpha                         | -0.0621  |
+| loss/critics                       | 64.5     |
+| timestep                           | 215000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0896   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.3     |
+| eval/normalized_episode_reward_std | 9.37     |
+| loss/actor                         | -183     |
+| loss/alpha                         | 0.00375  |
+| loss/critics                       | 63.9     |
+| timestep                           | 216000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0893   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.2     |
+| eval/normalized_episode_reward_std | 2.73     |
+| loss/actor                         | -184     |
+| loss/alpha                         | 0.0449   |
+| loss/critics                       | 63       |
+| timestep                           | 217000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0898   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.7     |
+| eval/normalized_episode_reward_std | 2.76     |
+| loss/actor                         | -183     |
+| loss/alpha                         | -0.0181  |
+| loss/critics                       | 63.8     |
+| timestep                           | 218000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0895   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.2     |
+| eval/normalized_episode_reward_std | 2.74     |
+| loss/actor                         | -183     |
+| loss/alpha                         | -0.0856  |
+| loss/critics                       | 64.9     |
+| timestep                           | 219000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.089    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 47.1     |
+| eval/normalized_episode_reward_std | 8.25     |
+| loss/actor                         | -183     |
+| loss/alpha                         | 0.0329   |
+| loss/critics                       | 63.9     |
+| timestep                           | 220000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0889   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.5     |
+| eval/normalized_episode_reward_std | 2.78     |
+| loss/actor                         | -183     |
+| loss/alpha                         | -0.0656  |
+| loss/critics                       | 63       |
+| timestep                           | 221000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0889   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.3     |
+| eval/normalized_episode_reward_std | 2.66     |
+| loss/actor                         | -184     |
+| loss/alpha                         | 0.0502   |
+| loss/critics                       | 62.9     |
+| timestep                           | 222000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0893   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50       |
+| eval/normalized_episode_reward_std | 2.63     |
+| loss/actor                         | -185     |
+| loss/alpha                         | 0.0231   |
+| loss/critics                       | 62.7     |
+| timestep                           | 223000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0891   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 48       |
+| eval/normalized_episode_reward_std | 6.58     |
+| loss/actor                         | -184     |
+| loss/alpha                         | -0.00498 |
+| loss/critics                       | 63.3     |
+| timestep                           | 224000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0893   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.2     |
+| eval/normalized_episode_reward_std | 2.64     |
+| loss/actor                         | -184     |
+| loss/alpha                         | 0.0694   |
+| loss/critics                       | 62.4     |
+| timestep                           | 225000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.09     |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.5     |
+| eval/normalized_episode_reward_std | 2.6      |
+| loss/actor                         | -184     |
+| loss/alpha                         | 0.0384   |
+| loss/critics                       | 62.3     |
+| timestep                           | 226000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0902   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.8     |
+| eval/normalized_episode_reward_std | 2.77     |
+| loss/actor                         | -185     |
+| loss/alpha                         | 0.0149   |
+| loss/critics                       | 61.9     |
+| timestep                           | 227000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0902   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50       |
+| eval/normalized_episode_reward_std | 2.72     |
+| loss/actor                         | -185     |
+| loss/alpha                         | -0.0361  |
+| loss/critics                       | 63.1     |
+| timestep                           | 228000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.09     |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.6     |
+| eval/normalized_episode_reward_std | 2.99     |
+| loss/actor                         | -185     |
+| loss/alpha                         | -0.0368  |
+| loss/critics                       | 61.7     |
+| timestep                           | 229000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0896   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.8     |
+| eval/normalized_episode_reward_std | 2.6      |
+| loss/actor                         | -184     |
+| loss/alpha                         | -0.0269  |
+| loss/critics                       | 60.9     |
+| timestep                           | 230000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0899   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.3     |
+| eval/normalized_episode_reward_std | 2.73     |
+| loss/actor                         | -185     |
+| loss/alpha                         | 0.0534   |
+| loss/critics                       | 63.6     |
+| timestep                           | 231000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.09     |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.5     |
+| eval/normalized_episode_reward_std | 2.76     |
+| loss/actor                         | -184     |
+| loss/alpha                         | -0.00142 |
+| loss/critics                       | 61.2     |
+| timestep                           | 232000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0899   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.2     |
+| eval/normalized_episode_reward_std | 2.56     |
+| loss/actor                         | -185     |
+| loss/alpha                         | 0.0238   |
+| loss/critics                       | 62.4     |
+| timestep                           | 233000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0901   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50       |
+| eval/normalized_episode_reward_std | 2.64     |
+| loss/actor                         | -185     |
+| loss/alpha                         | -0.0186  |
+| loss/critics                       | 62.7     |
+| timestep                           | 234000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.09     |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.4     |
+| eval/normalized_episode_reward_std | 2.67     |
+| loss/actor                         | -185     |
+| loss/alpha                         | 0.0279   |
+| loss/critics                       | 60.6     |
+| timestep                           | 235000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0902   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.5     |
+| eval/normalized_episode_reward_std | 2.62     |
+| loss/actor                         | -185     |
+| loss/alpha                         | -0.0048  |
+| loss/critics                       | 61.5     |
+| timestep                           | 236000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0905   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.5     |
+| eval/normalized_episode_reward_std | 2.65     |
+| loss/actor                         | -186     |
+| loss/alpha                         | 0.0448   |
+| loss/critics                       | 61.1     |
+| timestep                           | 237000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0908   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.2     |
+| eval/normalized_episode_reward_std | 2.59     |
+| loss/actor                         | -186     |
+| loss/alpha                         | 0.0511   |
+| loss/critics                       | 60.2     |
+| timestep                           | 238000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0909   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.1     |
+| eval/normalized_episode_reward_std | 2.62     |
+| loss/actor                         | -185     |
+| loss/alpha                         | -0.051   |
+| loss/critics                       | 60.1     |
+| timestep                           | 239000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0905   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.9     |
+| eval/normalized_episode_reward_std | 2.72     |
+| loss/actor                         | -186     |
+| loss/alpha                         | -0.0293  |
+| loss/critics                       | 59.5     |
+| timestep                           | 240000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0902   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.1     |
+| eval/normalized_episode_reward_std | 2.73     |
+| loss/actor                         | -186     |
+| loss/alpha                         | -0.0366  |
+| loss/critics                       | 61.9     |
+| timestep                           | 241000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0901   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.5     |
+| eval/normalized_episode_reward_std | 2.65     |
+| loss/actor                         | -186     |
+| loss/alpha                         | 0.0208   |
+| loss/critics                       | 60.7     |
+| timestep                           | 242000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0901   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.4     |
+| eval/normalized_episode_reward_std | 2.65     |
+| loss/actor                         | -185     |
+| loss/alpha                         | -0.0429  |
+| loss/critics                       | 59.5     |
+| timestep                           | 243000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0896   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.9     |
+| eval/normalized_episode_reward_std | 2.58     |
+| loss/actor                         | -186     |
+| loss/alpha                         | -0.0243  |
+| loss/critics                       | 60.4     |
+| timestep                           | 244000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0894   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.4     |
+| eval/normalized_episode_reward_std | 2.56     |
+| loss/actor                         | -185     |
+| loss/alpha                         | -0.0194  |
+| loss/critics                       | 59.3     |
+| timestep                           | 245000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0896   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.4     |
+| eval/normalized_episode_reward_std | 2.82     |
+| loss/actor                         | -186     |
+| loss/alpha                         | 0.07     |
+| loss/critics                       | 58.6     |
+| timestep                           | 246000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0901   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.2     |
+| eval/normalized_episode_reward_std | 2.85     |
+| loss/actor                         | -186     |
+| loss/alpha                         | 0.00224  |
+| loss/critics                       | 59.8     |
+| timestep                           | 247000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.09     |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.6     |
+| eval/normalized_episode_reward_std | 2.91     |
+| loss/actor                         | -187     |
+| loss/alpha                         | 0.0187   |
+| loss/critics                       | 59.3     |
+| timestep                           | 248000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0902   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.5     |
+| eval/normalized_episode_reward_std | 2.62     |
+| loss/actor                         | -186     |
+| loss/alpha                         | -0.00804 |
+| loss/critics                       | 58.3     |
+| timestep                           | 249000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0899   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.5     |
+| eval/normalized_episode_reward_std | 2.53     |
+| loss/actor                         | -187     |
+| loss/alpha                         | -0.0597  |
+| loss/critics                       | 59.6     |
+| timestep                           | 250000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0895   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.3     |
+| eval/normalized_episode_reward_std | 2.74     |
+| loss/actor                         | -187     |
+| loss/alpha                         | -0.00655 |
+| loss/critics                       | 58.9     |
+| timestep                           | 251000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.089    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.1     |
+| eval/normalized_episode_reward_std | 2.7      |
+| loss/actor                         | -187     |
+| loss/alpha                         | -0.0479  |
+| loss/critics                       | 58.8     |
+| timestep                           | 252000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0894   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50       |
+| eval/normalized_episode_reward_std | 2.69     |
+| loss/actor                         | -187     |
+| loss/alpha                         | 0.0942   |
+| loss/critics                       | 59.5     |
+| timestep                           | 253000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0903   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.1     |
+| eval/normalized_episode_reward_std | 2.55     |
+| loss/actor                         | -187     |
+| loss/alpha                         | 0.0465   |
+| loss/critics                       | 57.3     |
+| timestep                           | 254000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0905   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.3     |
+| eval/normalized_episode_reward_std | 2.64     |
+| loss/actor                         | -187     |
+| loss/alpha                         | 0.0252   |
+| loss/critics                       | 58.1     |
+| timestep                           | 255000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0908   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.4     |
+| eval/normalized_episode_reward_std | 2.73     |
+| loss/actor                         | -187     |
+| loss/alpha                         | 0.00146  |
+| loss/critics                       | 58.8     |
+| timestep                           | 256000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0906   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.3     |
+| eval/normalized_episode_reward_std | 2.74     |
+| loss/actor                         | -187     |
+| loss/alpha                         | -0.0102  |
+| loss/critics                       | 57.4     |
+| timestep                           | 257000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0903   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.7     |
+| eval/normalized_episode_reward_std | 2.67     |
+| loss/actor                         | -187     |
+| loss/alpha                         | -0.0425  |
+| loss/critics                       | 59       |
+| timestep                           | 258000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0906   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.1     |
+| eval/normalized_episode_reward_std | 2.57     |
+| loss/actor                         | -187     |
+| loss/alpha                         | 0.0364   |
+| loss/critics                       | 56.4     |
+| timestep                           | 259000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0902   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.2     |
+| eval/normalized_episode_reward_std | 2.78     |
+| loss/actor                         | -187     |
+| loss/alpha                         | -0.0254  |
+| loss/critics                       | 58.2     |
+| timestep                           | 260000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0904   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.5     |
+| eval/normalized_episode_reward_std | 2.93     |
+| loss/actor                         | -188     |
+| loss/alpha                         | -0.0162  |
+| loss/critics                       | 57.9     |
+| timestep                           | 261000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0904   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50       |
+| eval/normalized_episode_reward_std | 2.57     |
+| loss/actor                         | -188     |
+| loss/alpha                         | 0.0641   |
+| loss/critics                       | 57.4     |
+| timestep                           | 262000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.091    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.4     |
+| eval/normalized_episode_reward_std | 2.69     |
+| loss/actor                         | -188     |
+| loss/alpha                         | 0.0224   |
+| loss/critics                       | 57.8     |
+| timestep                           | 263000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0905   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.6     |
+| eval/normalized_episode_reward_std | 2.53     |
+| loss/actor                         | -187     |
+| loss/alpha                         | -0.0613  |
+| loss/critics                       | 57.8     |
+| timestep                           | 264000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0903   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.6     |
+| eval/normalized_episode_reward_std | 2.72     |
+| loss/actor                         | -188     |
+| loss/alpha                         | 0.0352   |
+| loss/critics                       | 56       |
+| timestep                           | 265000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0906   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.5     |
+| eval/normalized_episode_reward_std | 2.56     |
+| loss/actor                         | -188     |
+| loss/alpha                         | -0.0395  |
+| loss/critics                       | 56.9     |
+| timestep                           | 266000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0904   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.4     |
+| eval/normalized_episode_reward_std | 2.83     |
+| loss/actor                         | -188     |
+| loss/alpha                         | 0.0126   |
+| loss/critics                       | 57.2     |
+| timestep                           | 267000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0904   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.8     |
+| eval/normalized_episode_reward_std | 2.61     |
+| loss/actor                         | -188     |
+| loss/alpha                         | -0.0362  |
+| loss/critics                       | 56.9     |
+| timestep                           | 268000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0902   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.3     |
+| eval/normalized_episode_reward_std | 2.6      |
+| loss/actor                         | -188     |
+| loss/alpha                         | -0.00375 |
+| loss/critics                       | 55       |
+| timestep                           | 269000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0903   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.6     |
+| eval/normalized_episode_reward_std | 2.78     |
+| loss/actor                         | -188     |
+| loss/alpha                         | 0.0432   |
+| loss/critics                       | 56.6     |
+| timestep                           | 270000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0908   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 51       |
+| eval/normalized_episode_reward_std | 2.86     |
+| loss/actor                         | -188     |
+| loss/alpha                         | 0.0366   |
+| loss/critics                       | 57.5     |
+| timestep                           | 271000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0907   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.3     |
+| eval/normalized_episode_reward_std | 2.77     |
+| loss/actor                         | -188     |
+| loss/alpha                         | -0.0121  |
+| loss/critics                       | 55.6     |
+| timestep                           | 272000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0906   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.9     |
+| eval/normalized_episode_reward_std | 2.63     |
+| loss/actor                         | -188     |
+| loss/alpha                         | -0.00377 |
+| loss/critics                       | 55.6     |
+| timestep                           | 273000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0908   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.1     |
+| eval/normalized_episode_reward_std | 2.65     |
+| loss/actor                         | -188     |
+| loss/alpha                         | 0.0124   |
+| loss/critics                       | 55.9     |
+| timestep                           | 274000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0906   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 51.1     |
+| eval/normalized_episode_reward_std | 2.83     |
+| loss/actor                         | -188     |
+| loss/alpha                         | -0.0381  |
+| loss/critics                       | 56.7     |
+| timestep                           | 275000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0903   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.7     |
+| eval/normalized_episode_reward_std | 2.8      |
+| loss/actor                         | -188     |
+| loss/alpha                         | -0.0147  |
+| loss/critics                       | 55.6     |
+| timestep                           | 276000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0904   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.7     |
+| eval/normalized_episode_reward_std | 2.69     |
+| loss/actor                         | -188     |
+| loss/alpha                         | -0.0124  |
+| loss/critics                       | 55.5     |
+| timestep                           | 277000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0899   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.9     |
+| eval/normalized_episode_reward_std | 2.75     |
+| loss/actor                         | -188     |
+| loss/alpha                         | -0.0318  |
+| loss/critics                       | 55.4     |
+| timestep                           | 278000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0901   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.4     |
+| eval/normalized_episode_reward_std | 2.46     |
+| loss/actor                         | -188     |
+| loss/alpha                         | 0.0391   |
+| loss/critics                       | 55.7     |
+| timestep                           | 279000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0906   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50       |
+| eval/normalized_episode_reward_std | 2.69     |
+| loss/actor                         | -189     |
+| loss/alpha                         | 0.0653   |
+| loss/critics                       | 55.1     |
+| timestep                           | 280000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0908   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.6     |
+| eval/normalized_episode_reward_std | 2.52     |
+| loss/actor                         | -189     |
+| loss/alpha                         | 0.00724  |
+| loss/critics                       | 54.7     |
+| timestep                           | 281000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0908   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 49.9     |
+| eval/normalized_episode_reward_std | 2.68     |
+| loss/actor                         | -188     |
+| loss/alpha                         | -0.0112  |
+| loss/critics                       | 55.9     |
+| timestep                           | 282000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0914   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.6     |
+| eval/normalized_episode_reward_std | 2.53     |
+| loss/actor                         | -189     |
+| loss/alpha                         | 0.0498   |
+| loss/critics                       | 55.1     |
+| timestep                           | 283000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0911   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 51.2     |
+| eval/normalized_episode_reward_std | 2.66     |
+| loss/actor                         | -188     |
+| loss/alpha                         | -0.0474  |
+| loss/critics                       | 54.9     |
+| timestep                           | 284000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0907   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.9     |
+| eval/normalized_episode_reward_std | 2.59     |
+| loss/actor                         | -189     |
+| loss/alpha                         | 0.0196   |
+| loss/critics                       | 55.7     |
+| timestep                           | 285000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0913   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.1     |
+| eval/normalized_episode_reward_std | 2.52     |
+| loss/actor                         | -189     |
+| loss/alpha                         | 0.0265   |
+| loss/critics                       | 53.8     |
+| timestep                           | 286000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0913   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.2     |
+| eval/normalized_episode_reward_std | 2.58     |
+| loss/actor                         | -189     |
+| loss/alpha                         | 0.00936  |
+| loss/critics                       | 55.3     |
+| timestep                           | 287000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0912   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.5     |
+| eval/normalized_episode_reward_std | 2.72     |
+| loss/actor                         | -189     |
+| loss/alpha                         | -0.018   |
+| loss/critics                       | 55.5     |
+| timestep                           | 288000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.091    |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.7     |
+| eval/normalized_episode_reward_std | 2.78     |
+| loss/actor                         | -189     |
+| loss/alpha                         | -0.0395  |
+| loss/critics                       | 53.9     |
+| timestep                           | 289000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0911   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.4     |
+| eval/normalized_episode_reward_std | 2.61     |
+| loss/actor                         | -189     |
+| loss/alpha                         | 0.0644   |
+| loss/critics                       | 55.1     |
+| timestep                           | 290000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0913   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.4     |
+| eval/normalized_episode_reward_std | 2.67     |
+| loss/actor                         | -189     |
+| loss/alpha                         | 0.00621  |
+| loss/critics                       | 54.3     |
+| timestep                           | 291000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0914   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.3     |
+| eval/normalized_episode_reward_std | 2.67     |
+| loss/actor                         | -189     |
+| loss/alpha                         | -0.0213  |
+| loss/critics                       | 55.2     |
+| timestep                           | 292000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0913   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.9     |
+| eval/normalized_episode_reward_std | 2.54     |
+| loss/actor                         | -189     |
+| loss/alpha                         | -0.00458 |
+| loss/critics                       | 55.8     |
+| timestep                           | 293000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0915   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.2     |
+| eval/normalized_episode_reward_std | 2.68     |
+| loss/actor                         | -189     |
+| loss/alpha                         | 0.0425   |
+| loss/critics                       | 53.3     |
+| timestep                           | 294000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0921   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.9     |
+| eval/normalized_episode_reward_std | 2.69     |
+| loss/actor                         | -189     |
+| loss/alpha                         | 0.0832   |
+| loss/critics                       | 54.4     |
+| timestep                           | 295000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0923   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.5     |
+| eval/normalized_episode_reward_std | 2.55     |
+| loss/actor                         | -189     |
+| loss/alpha                         | -0.0596  |
+| loss/critics                       | 54.4     |
+| timestep                           | 296000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0916   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.1     |
+| eval/normalized_episode_reward_std | 2.74     |
+| loss/actor                         | -189     |
+| loss/alpha                         | -0.0663  |
+| loss/critics                       | 53.9     |
+| timestep                           | 297000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0914   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.2     |
+| eval/normalized_episode_reward_std | 2.73     |
+| loss/actor                         | -189     |
+| loss/alpha                         | -0.00173 |
+| loss/critics                       | 54.8     |
+| timestep                           | 298000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0916   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 51.1     |
+| eval/normalized_episode_reward_std | 2.79     |
+| loss/actor                         | -189     |
+| loss/alpha                         | 0.0477   |
+| loss/critics                       | 53.4     |
+| timestep                           | 299000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0919   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.5     |
+| eval/normalized_episode_reward_std | 2.56     |
+| loss/actor                         | -189     |
+| loss/alpha                         | 0.013    |
+| loss/critics                       | 53.4     |
+| timestep                           | 300000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0918   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.8     |
+| eval/normalized_episode_reward_std | 2.78     |
+| loss/actor                         | -189     |
+| loss/alpha                         | 0.0363   |
+| loss/critics                       | 54.6     |
+| timestep                           | 301000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0923   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.5     |
+| eval/normalized_episode_reward_std | 2.79     |
+| loss/actor                         | -189     |
+| loss/alpha                         | 0.0452   |
+| loss/critics                       | 53.2     |
+| timestep                           | 302000   |
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+| alpha                              | 0.0928   |
+| eval/episode_length                | 1e+03    |
+| eval/episode_length_std            | 0        |
+| eval/normalized_episode_reward     | 50.6     |
+| eval/normalized_episode_reward_std | 2.65     |
+| loss/actor                         | -189     |
+| loss/alpha                         | -0.0531  |
+| loss/critics                       | 53.5     |
+| timestep                           | 303000   |
+----------------------------------------------------------------------------------

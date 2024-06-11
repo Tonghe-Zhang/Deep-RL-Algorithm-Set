@@ -1,0 +1,14 @@
+1. halfcheetah_mixed.hdf5
+来源：
+	http://rail.eecs.berkeley.edu/datasets/offline_rl/gym_mujoco/halfcheetah_mixed.hdf5
+放置于：
+	
+
+2. halfcheetah-medium-replay-v0-weighted.npz
+来源：
+	https://cloud.tsinghua.edu.cn/f/4b534cfa9e3a4507997c/
+	文件非常大，1个G
+放置于：
+	/root/autodl-fs/OfflineRL-Kit-main/...
+
+3. 

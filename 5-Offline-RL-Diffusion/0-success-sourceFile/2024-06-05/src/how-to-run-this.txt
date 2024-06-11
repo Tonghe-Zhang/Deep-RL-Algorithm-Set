@@ -1,0 +1,54 @@
+cd /root/autodl-fs/OfflineRL-Kit-main
+conda activate mujoco_py
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/root/.mujoco/mujoco210/bin
+nohup python run_edac.py --num-critics 10 --eta 1.0 --task half-cheetah-medium-replay-v0 &
+
+nohup python run_edac.py --num-critics 10 --eta 1.0 --task halfcheetah-medium-v2 &
+
+
+Some changes:
+line 81 in /OfflineRL-Kit/main/run_edac.py:
+    change env.seed(seed=args.seed) to env.reset(seed=args.seed)
+line 30 in d4rl/utils/wrappers.py:
+    change self._wrapped_env.seed(seed=seed) to self._wrapped_env.reset(seed=seed)
+line 91 in 
+    change obs= self.eval_env.reset() to obs, _ = self.eval_env.reset(), because we see self.eval_env.reset() returns a tuple of (np.ndarray, dict)
+
+line 167 in /root/D4RL/d4rl/utils/wrappers.py
+    change 
+        next_obs, reward, done, info = wrapped_step
+    to
+        next_obs, reward, done, _, info = wrapped_step
+    
+because in our mujoco environment, half_cheetah returns
+return (
+            ob,
+            reward,
+            terminated,
+            False,
+            dict(reward_run=reward_run, reward_ctrl=reward_ctrl),
+        )
+see line 38 in /roo/miniconda3/envs/mujoco_py/lib/python3.8/site-packages/gym/envs/mujoco/half_cheetah.py
+
+line 53 in /root/miniconda3/envs/mujoco_py/lib/python3.8/site-packages/gym/wrappers/time_limit.py
+    change
+        observation, reward, terminated, truncated, info = self.env.step(action)
+    to
+        observation, reward, terminated, info = self.env.step(action)
+        truncated=False
+        
+    because I find that the OfflineHalfCheetah environment only returns four items after calling .step(action)
+    and the rest of the lines in ../time_limit.py automatically calculate truncation
+    
+        self._elapsed_steps += 1
+        if self._elapsed_steps >= self._max_episode_steps:
+            truncated = True
+
+        return observation, reward, terminated, truncated, info
+        
+line 98 in /offlinerlkit/policy_trainer/mf-policy_trainer.py
+    change
+         next_obs, reward, terminal, _ = self.eval_env.step(action.flatten())
+    to
+         next_obs, reward, terminal, _, _ = self.eval_env.step(action.flatten())
+    because /time_limit.py still returns five objects. 
