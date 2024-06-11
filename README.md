@@ -11,4 +11,5 @@ Algorithms include:
 * DQN with N-step replay buffer, Double DQN, Dueling DQN, Prioritized Experience Replay
 * DDPG, TD3, SAC
 * Clipped PPO
-* Offline RL algorithms, in particular EDAC. 
+* Offline RL algorithms, in particular EDAC.
+* Diffusion-model based data augmetation, in particular GTA. 
