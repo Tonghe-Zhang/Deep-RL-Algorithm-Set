@@ -1,6 +1,9 @@
 # Deep-RL-Algorithm-Set
 Implementation of foundational and state-of-the-art deep reinforcement learning algorithms. 
-Extended from graduate course ''Deep Reinforcement Learning'' from Tsinghua University. Credit to lecturer: Huazhe Xu.
+Extended from graduate course ''Deep Reinforcement Learning'' from Tsinghua University. Credit to lecturer: [Huazhe Xu](http://hxu.rocks/).
+Also borrowed OfflineRLKit repo from [this site](https://github.com/yihaosun1124/OfflineRL-Kit)
+and Generative Trajectory Augmentation from [this site](https://github.com/Jaewoopudding/GTA). 
+
 
 Algorithms include:
 
@@ -8,4 +11,5 @@ Algorithms include:
 * DQN with N-step replay buffer, Double DQN, Dueling DQN, Prioritized Experience Replay
 * DDPG, TD3, SAC
 * Clipped PPO
-* Offline RL algorithms, in particular EDAC. 
+* Offline RL algorithms, in particular EDAC.
+* Diffusion-model based data augmetation, in particular GTA. 
