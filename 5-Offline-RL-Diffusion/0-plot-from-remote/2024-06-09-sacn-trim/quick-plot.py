@@ -5,11 +5,34 @@ import os
 import matplotlib.cm as cm
 
 
-def quick_plot():
+def compare(trim_pct:list[float],max_normalized_returns:list[float]):
+    # Create plot
+    plt.figure(figsize=(10, 7))
+    plt.plot(trim_pct, max_normalized_returns, marker='o')
+
+    # Annotate the points
+    for i, j in zip(trim_pct, max_normalized_returns):
+        plt.annotate(f'{j:.2f}', xy=(i, j), textcoords="offset points", xytext=(0,10), ha='center')
+
+    # Add labels and title
+    plt.xlabel('Trimming Percentage')
+    plt.ylabel('Normalized Episodic Reward')
+    plt.ylim([10,60])
+    plt.title('Trimming Percentage vs Normalized Episodic Reward')
+
+    # Show the plot
+    plt.grid(True)
+    plt.savefig('./compare.png')
+    plt.show()
+
+
+
+def quick_plot(trim_pcts=[0.1,0.2,0.3,0.4,0.5,0.6,0.8]):
+
+
+    max_returns=[]
+
     # Reading the CSV data into a dataframe
-
-    trim_pcts=[0.2,0.4,0.6,0.8]
-
     data_pct={}
     for trim_pct in trim_pcts:
         data_pct[trim_pct]=pd.read_csv(os.path.join(str(trim_pct),'record','policy_training_progress.csv'))
@@ -30,22 +53,19 @@ def quick_plot():
                         data['eval/normalized_episode_reward'] - data['eval/normalized_episode_reward_std'], 
                         data['eval/normalized_episode_reward'] + data['eval/normalized_episode_reward_std'],
                         color=colors[i], alpha=0.2)
+        max_returns.append(max(data['eval/normalized_episode_reward']))
+
     plt.xlabel('Step')
     plt.ylabel('Normalized Episode Reward')
     plt.title('Effect of Trimming Dataset on EDAC Algorithm')
-    plt.legend()
+    plt.legend(loc='upper right',ncol=2)
     
     plt.savefig("./returns.png")
     plt.show()
     
     print(f"max reward={max(data['eval/normalized_episode_reward'])}")
     
-    #plt.grid(True)
-
-    # Updating x-axis to scale of 1e6
-    ax = plt.gca()
-    formatter = ticker.FuncFormatter(millions)
-    ax.xaxis.set_major_formatter(formatter)
+    
 
     # Plotting loss of actor and critics on primary y-axis
 
@@ -54,7 +74,7 @@ def quick_plot():
 
     plt.subplot(1,3,1)
     for i, (trim_pct,data) in enumerate(data_pct.items()):
-        plt.plot(data['timestep'], data['loss/actor'], label='Trim '+str(trim_pct*100)+'%', color=colors[i])
+        plt.plot(data['timestep'], data['loss/actor'], label=''+str(trim_pct*100)+'%', color=colors[i])
     plt.xlabel('Step')
     plt.ylabel('Actor Loss')
     plt.title('Effect of Trimming on Actor Loss')
@@ -62,7 +82,7 @@ def quick_plot():
 
     plt.subplot(1,3,2)
     for i, (trim_pct,data) in enumerate(data_pct.items()):
-        plt.plot(data['timestep'], data['loss/critics'], label='Trim '+str(trim_pct*100)+'%', color=colors[i])
+        plt.plot(data['timestep'], data['loss/critics'], label=''+str(trim_pct*100)+'%', color=colors[i])
     plt.xlabel('Step')
     plt.ylabel('Critic Loss')
     plt.title('Effect of Trimming on Critic Loss')
@@ -70,7 +90,7 @@ def quick_plot():
 
     plt.subplot(1,3,3)
     for i, (trim_pct,data) in enumerate(data_pct.items()):
-        plt.plot(data['timestep'], data['loss/alpha'], label='Trim '+str(trim_pct*100)+'%', color=colors[i])
+        plt.plot(data['timestep'], data['loss/alpha'], label=''+str(trim_pct*100)+'%', color=colors[i])
     plt.xlabel('Step')
     plt.ylabel('Alpha Loss')
     plt.title('Effect of Trimming on Alpha Loss')
@@ -81,6 +101,14 @@ def quick_plot():
     plt.savefig('./loss.png')
     plt.show()
 
+    return trim_pcts, max_returns
+
+
+
+
+
+
 
 if __name__=="__main__":
-    quick_plot()
+    trim_pcts, max_returns=quick_plot()
+    compare(trim_pcts, max_returns)
